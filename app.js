@@ -49,7 +49,7 @@ const getBet = (balance, lines) => {
 }
 
 }
-
+//start
 let balance = deposit();
 const NumbersOfLines = getNumbersOfLines();
 const bet = getBet(balance, NumbersOfLines);
